@@ -1,0 +1,12 @@
+# Virtual Environments
+env/
+venv/
+
+
+# Build Artifacts
+__pycache__
+migrations
+
+
+# Development
+.vscode/
